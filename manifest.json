@@ -1,7 +1,7 @@
 {
     "name": "export_cleaner",
     "short_name": "export_cleaner",
-    "start_url": ".",
+    "start_url": "/export_cleaner_web",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
