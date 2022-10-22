@@ -1,11 +1,11 @@
 {
     "name": "export_cleaner",
     "short_name": "export_cleaner",
-    "start_url": "/export_cleaner_web",
+    "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Clean big export from addon",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
